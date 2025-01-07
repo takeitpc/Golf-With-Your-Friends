@@ -1,15 +1,13 @@
 # Golf-With-Your-Friends
 تحميل لعبة Golf With Your Friends كاملة للكمبيوتر
-Here’s the 300-word README with the hyperlink for **Golf With Your Friends** and a section for adding images:
-
----
-
-# Golf With Your Friends  
 
 ## Overview  
 **[Golf With Your Friends](https://takeitpc.com/golf-with-your-friends/)** is a fun and fast-paced multiplayer mini-golf game that challenges your friends and family in a series of creative courses. Developed by Blacklight Interactive, this game offers a unique twist on traditional golf with wacky physics, challenging obstacles, and a variety of game modes to keep every round fresh and exciting.  
 
 Whether you’re playing locally or online with up to 12 players, *Golf With Your Friends* guarantees endless hours of laughter and competition. From pirate ships to haunted houses, each course is packed with surprises, making it the ultimate party game for all ages.  
+
+![image](https://github.com/user-attachments/assets/6d26c45a-a66c-4b04-8698-99f7d880b5f2)
+
 
 ## Key Features  
 - **Multiplayer Madness**: Play with up to 12 players online or locally in thrilling mini-golf battles.  
@@ -33,8 +31,10 @@ Recommended:
 - GPU: GTX 760 or equivalent  
 
 ## Screenshots  
-![Golf With Your Friends Gameplay](https://via.placeholder.com/800x450.png?text=Gameplay+Screenshot)  
-![Mini-Golf Madness](https://via.placeholder.com/800x450.png?text=Creative+Courses)  
+![image](https://github.com/user-attachments/assets/93367240-666f-4c33-8d78-872f5cd1d386)
+![image](https://github.com/user-attachments/assets/ea53a759-8f4b-4fe3-a30d-006e82638ab6)
+
+
 
 ## Community and Contributions  
 Join the growing community of **Golf With Your Friends** players to share tips, custom courses, and exciting updates. Contributions to this repository are always welcome!  
